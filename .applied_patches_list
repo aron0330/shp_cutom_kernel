@@ -1,0 +1,5 @@
+/home/aron/work/build_test/buildroot_s500/board/cubieboard6/patches/linux/0001-unbreak-xhci-trace.patch
+/home/aron/work/build_test/buildroot_s500/board/cubieboard6/patches/linux/0002-kernel-add-support-for-gcc-5.patch
+/home/aron/work/build_test/buildroot_s500/board/cubieboard6/patches/linux/0003-ARM-8158-1-LLVMLinux-use-static-inline-in-ARM-ftrace.patch
+/home/aron/work/build_test/buildroot_s500/board/cubieboard6/patches/linux/0004-Fix-compile-errors-with-gcc5.patch
+/home/aron/work/build_test/buildroot_s500/board/cubieboard6/patches/linux/0005-compiler-gcc-integrate-the-various-compiler-gcc-345-.patch
